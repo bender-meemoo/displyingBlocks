@@ -1,0 +1,40 @@
+body {
+    background-color: #d4d2ae;
+}
+
+.title_div {
+    display: inline-block;
+    
+}
+
+.title {
+    text-align: center;
+}
+
+.h1_img {
+    margin: .25%;
+    width: 10%;
+    background-color: white;
+}
+
+.div1 {
+    display:inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.ltRed {
+    margin: .25%;
+    width: 15%;
+    border: 5px solid black;
+    background-color: #f36870;
+}
+.ltBlue {
+    margin: .25%;
+    width: 15%;
+    border: 5px solid black;
+    outline:15px solid #82b4ee;
+    outline-offset: -20px;
+}
